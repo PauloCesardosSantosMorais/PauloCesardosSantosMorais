@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem vindo, me chamo Paulo César dos Santos</h1>
+<h1 align="center">Olá, seja bem-vindo, me chamo Paulo César dos Santos</h1>
 <h3 align="center">Estudante de Engenharia de Software-FIAP</h3>
 
 - 🌱 Estou aprendendo **Java, Spring Boot**
