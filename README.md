@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem-vindo, me chamo Paulo César dos Santos</h1>
 <h3 align="center">Estudante de Engenharia de Software-FIAP</h3>
 
-- 🌱 Atualmente estou aprendendo **Java, Spring Boot**
+- 🌱 Atualmente estou aprendendo **Java & Spring Boot**
 
 - 📫 Contato **paulo.santoss312@gmail.com**
 
